@@ -38,7 +38,7 @@
                 ]
             )
 
-            // 选中的(必须是proxy对象)
+            // 选中的
             let checkArr = reactive({
                 arr: []
             })
