@@ -1,4 +1,4 @@
-# v3
+# VUE3
 
 ## Project setup
 ```
